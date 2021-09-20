@@ -1,4 +1,4 @@
-Match;Joueurs;Classement;Scores
+Match;Joueur;Classement;Scores
 1;Marin;5;0
 1;Colas;3;2
 2;LL;4;1
@@ -31,3 +31,13 @@ Match;Joueurs;Classement;Scores
 15;Mateos;6;0
 16;KRa;1;3
 16;Mateos;6;1
+17;Colas;2;3
+17;Gessien;6;1
+18;KRa;1;3
+18;PLN;8;0
+19;KRa;1;3
+19;PLN;8;0
+20;Marin;4;2
+20;Gessien;6;3
+21;Marin;4;2
+21;PLN;8;3
